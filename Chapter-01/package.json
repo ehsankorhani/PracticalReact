@@ -1,11 +1,8 @@
 {
-  "name": "practicalreact",
-  "version": "1.0.0",
-  "description": "Practical React and Redux tutorial",
+  "name": "practical-react",
+  "version": "0.1.0",
+  "description": "Practical React and Redux tutorial - Chapter 1",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ehsankorhani/PracticalReact.git"
@@ -15,5 +12,5 @@
   "bugs": {
     "url": "https://github.com/ehsankorhani/PracticalReact/issues"
   },
-  "homepage": "https://github.com/ehsankorhani/PracticalReact#readme"
+  "homepage": "http://ehsankorhani.com/blog/practical-react-chapter-1"
 }

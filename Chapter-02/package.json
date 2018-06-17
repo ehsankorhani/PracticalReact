@@ -1,0 +1,20 @@
+{
+  "name": "practicalreact",
+  "version": "0.2.0",
+  "description": "Practical React and Redux tutorial - Chapter 2",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehsankorhani/PracticalReact.git"
+  },
+  "author": "Ehsan Korhani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ehsankorhani/PracticalReact/issues"
+  },
+  "homepage": "http://ehsankorhani.com/blog/practical-react-chapter-2",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
